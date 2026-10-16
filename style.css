@@ -1,0 +1,50 @@
+/* General page styling */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 30px;
+  background-color: #f4f6f8;
+  color: #222;
+}
+
+
+/* Heading styles */
+h1, h2 {
+    color: #243447;
+}
+
+/*Table styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px 0;
+    background-color: #ffffff;
+    }
+
+th, td {
+    border: 1px solid #999;
+    padding: 10px;
+    text-align: center;
+    }
+
+/*Table heading color*/
+th {
+    background-color: #d9eaf7;
+}
+
+/* Button styling */
+button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #287a45;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #1f6136;
+}
